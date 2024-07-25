@@ -1,0 +1,5 @@
+const valor = null;
+
+while () {
+    
+}

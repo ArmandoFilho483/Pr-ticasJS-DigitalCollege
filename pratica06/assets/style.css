@@ -1,0 +1,64 @@
+/* ARMANDO */
+p {
+    color: red;
+    font-size: 16px;
+}
+
+/* VIVIAN */
+/*  
+h1.destaque {
+    background-color: yellow;
+    padding: 10px;
+}
+
+h2.destaque {
+    background-color: yellow;
+        padding: 10px;
+}
+*/
+
+/* ARMANDO */
+.destaque {
+    background-color: yellow;
+    padding: 10px;
+}
+#delivery {
+    border:5px solid blue;
+    }
+#cidade {
+    border:5px solid blue;
+}
+a:hover {
+    color: green;
+    text-decoration-color: blue;
+}
+/* VIVIAN */
+/* 
+h3::after {
+    content: none;
+    height: 0px;
+    width: 0px;
+    border-top: 10px solid transparent;
+    border-left: 10px solid #000;
+    border-right: 10px solid transparent;
+}
+*/
+h3::after {
+    content: "";
+    height: 0px;
+    width: 0px;
+    border-top: 10px solid #000;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+}
+/* JOAO NETO */
+.conteudo {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+/* ADICIONADO POSTERIORMENTE */
+.menu__principal > li {
+    color: green;
+
+}
+
