@@ -1,5 +1,0 @@
-const valor = null;
-
-while () {
-    
-}

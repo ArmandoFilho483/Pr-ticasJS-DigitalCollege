@@ -1,4 +1,7 @@
-function isMaiorDeIdade (idade) {
+// function expression
+
+const isMaiorDeIdade = function (idade) {
     console.log(idade >= 18);
 }
-isMaiorDeIdade(19);
+
+isMaiorDeIdade(17);
